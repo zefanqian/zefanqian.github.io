@@ -6,22 +6,29 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-12-02T13:43:29-06:00"
+      "last_modified": "2021-12-02T14:11:58-06:00"
     },
     {
       "path": "index.html",
-      "title": "Zefan Qian Portfolio",
+      "title": "Zefan Qian",
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-12-02T13:43:30-06:00"
+      "last_modified": "2021-12-02T14:12:00-06:00"
     },
     {
       "path": "projects.html",
       "title": "Projects",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-12-02T13:43:31-06:00"
+      "last_modified": "2021-12-02T14:12:02-06:00"
+    },
+    {
+      "path": "Resume.html",
+      "title": "Resume",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\nFigure 1: your caption\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-12-02T14:12:03-06:00"
     }
   ],
   "collections": ["posts/posts.json"]
