@@ -1,0 +1,14 @@
+name: "portfolio_website"
+title: "Zefan Qian"
+description: |
+  This is my website
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Projects" 
+      href: projects.html
+output: distill::distill_article
